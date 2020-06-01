@@ -1,0 +1,17 @@
+{
+  "name": "mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "async-mqtt": "^2.4.2",
+    "express": "^4.17.1",
+    "npid": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mathman",
+  "license": "ISC"
+}

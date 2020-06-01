@@ -1,0 +1,13 @@
+{
+	"id" : "roomba",
+	"name" : "roomba",
+	"description" : "Plugin permettant de communiquer avec les robot Roomba",
+	"licence" : "AGPL",
+	"author" : "Mathman",
+	"require" : "3.2",
+	"category" : "devicecommunication",
+	"hasDependency" : true,
+	"hasOwnDeamon" : true,
+	"changelog" : "https://jeedom.github.io/plugin-template/#language#/changelog",
+	"documentation" : "https://jeedom.github.io/plugin-template/#language#/"
+}
